@@ -7,11 +7,11 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nrazaaly/coursePINNs/blob/main/notebooks/a_pytorch_tutorial.ipynb)
 
-### Notebook 1: Solution
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nrazaaly/coursePINNs/blob/main/notebooks/a_solution.ipynb)
-
 
 ### Notebook 2: Training Basics
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nrazaaly/coursePINNs/blob/main/notebooks/b_training_basics.ipynb)
+
+### Notebook 2: Solution
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nrazaaly/coursePINNs/blob/main/notebooks/b_solution.ipynb)
+
