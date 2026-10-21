@@ -15,3 +15,7 @@
 ### Notebook 2: Solution
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nrazaaly/coursePINNs/blob/main/notebooks/b_solution.ipynb)
 
+### Notebook 3: PINNs (to do in autonomy)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nrazaaly/coursePINNs/blob/main/notebooks/c_forwardPINNs.ipynb)
+
+
