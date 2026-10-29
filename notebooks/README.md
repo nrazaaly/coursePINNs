@@ -18,6 +18,6 @@
 ### Notebook 3: PINNs 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nrazaaly/coursePINNs/blob/main/notebooks/c_forwardPINNs.ipynb)
 
-### Notebook 3: PINNs for inverse problem
+### Notebook 4: PINNs for inverse problem
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nrazaaly/coursePINNs/blob/main/notebooks/d_inversePINNs.ipynb)
 
